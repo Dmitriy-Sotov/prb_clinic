@@ -1,6 +1,13 @@
 from PySide6.QtWidgets import QMainWindow
 
+
+
+
 from ui_py.ui_menu_window import Ui_MenuWindow
+
+
+
+
 
 
 class MenuWindow(QMainWindow, Ui_MenuWindow):
